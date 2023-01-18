@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 Developer and Designer
-----------------------
+
 
 Hey, I am your friendly neighborhood Coder/Programmer/Designer/Editor/”?”. "Design is intelligence made visible." An idea that can be elaborated and can be envisioned is not just an idea, its a Creative Innovation. As the quote says a 'Design' is a visual representation of creativity and thoughtful planning. 'Design' is the manifestation of ideas, insights, and strategies that make an experience meaningful, memorable, and above all, effective. Who Am I? I am a Young Graduate in Computer Science Engineering, Working on projects that would give me an idea of how technology works in today's time, A full fledged creative chad with an ideology of being enthusiastic and passionate about codes and design.
 
@@ -49,3 +49,11 @@ Hey, I am your friendly neighborhood Coder/Programmer/Designer/Editor/”?”. "
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Omarhabeeb69#4189" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/omarhabeeb27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/omarhabeeb69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omarhabeeb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/omarhabeeb69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+----------------------
+###
+<div align="center"> 
+<b>My GitHub Stats</b>
+  
+<a href="http://www.github.com/omarhabeeb27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarhabeeb27&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a></div>
+
+<a href="http://www.github.com/omarhabeeb27"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=omarhabeeb27&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>

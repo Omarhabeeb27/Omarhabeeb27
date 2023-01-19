@@ -22,7 +22,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 <p>Hey, I am your friendly neighborhood Coder/Programmer/Designer/Editor/”?”.</p>
 <p>"Design is intelligence made visible." An idea that can be elaborated and can be envisioned is not just an idea, its a Creative Innovation. As the quote says a 'Design' is a visual representation of creativity and thoughtful planning. 'Design' is the manifestation of ideas, insights, and strategies that make an experience meaningful, memorable, and above all, effective.</p> 
 <p><b>Who Am I?</b></p>
-I am a Young Graduate in Computer Science Engineering, Working on projects that would give me an idea of how technology works in today's time, A full fledged creative chad with an ideology of being enthusiastic and passionate about codes and design.
+<p>I am a Young Graduate in Computer Science Engineering, Working on projects that would give me an idea of how technology works in today's time, A full fledged creative chad with an ideology of being enthusiastic and passionate about codes and design.</p>
 
 * 🌍  I'm based in Saudi Arabia
 * ✉️  You can contact me at [omarhabeeb242@gmail.com](mailto:omarhabeeb242@gmail.com)

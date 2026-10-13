@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0a0a0a,50:7f0f1f,100:e11d48&text=OMAR%20HABEEB&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=%F0%9F%A6%87%20Vision%20into%20Reality&descSize=22&descAlignY=66&animation=fadeIn" alt="Omar Habeeb" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,50:7f0f1f,100:e11d48&text=OMAR%20HABEEB&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=Vision%20into%20Reality&descSize=22&descAlignY=60&animation=fadeIn" alt="Omar Habeeb" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E11D48&center=true&vCenter=true&width=720&lines=Technical+Project+Manager+%C2%B7+PMP%C2%AE+%C2%B7+FMP%C2%AE;Senior+Business+Analyst+%C2%B7+Strategy+%26+Governance;Certified+Frappe%2FERPNext+Developer;I+turn+messy+processes+into+systems+that+work." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=E11D48&center=true&vCenter=true&width=460&height=40&lines=Technical+Project+Manager;Senior+Business+Analyst;Certified+Frappe+%2F+ERPNext+Dev;PMP%C2%AE+%C2%B7+FMP%C2%AE" alt="Typing SVG" /></a>
 
 <br/>
 

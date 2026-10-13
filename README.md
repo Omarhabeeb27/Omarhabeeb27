@@ -182,7 +182,7 @@ Per-user language switching for Frappe v16, built for bilingual teams.
 
 <img src="https://streak-stats.demolab.com?user=Omarhabeeb27&hide_border=true&background=0a0a0a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e11d48&sideLabels=e5e5e5&dates=a3a3a3" alt="GitHub streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omarhabeeb27&bg_color=0a0a0a&color=e11d48&line=e11d48&point=ffffff&area=true&area_color=e11d48&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+<img width="88%" src="https://ghchart.rshah.org/e11d48/Omarhabeeb27" alt="Contribution calendar" />
 
 </div>
 
@@ -192,6 +192,6 @@ Per-user language switching for Frappe v16, built for bilingual teams.
 
 <sub>🌑 obsidian · 🩸 crimson · ☕ caffeinated</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:e11d48,100:0a0a0a&section=footer&reversal=true" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=120&color=0:0a0a0a,100:e11d48&section=footer" alt="" />
 
 </div>

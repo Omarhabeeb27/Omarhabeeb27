@@ -1,64 +1,197 @@
-<!--
-**Omarhabeeb27/Omarhabeeb27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ░▒▓█ OMAR HABEEB // PROFILE FILE █▓▒░ -->
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0a0a0a,50:7f0f1f,100:e11d48&text=OMAR%20HABEEB&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=%F0%9F%A6%87%20Vision%20into%20Reality&descSize=22&descAlignY=66&animation=fadeIn" alt="Omar Habeeb" />
 
-Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Omar Habeeb 
-===================================================================================================================================
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=E11D48&center=true&vCenter=true&width=720&lines=Technical+Project+Manager+%C2%B7+PMP%C2%AE+%C2%B7+FMP%C2%AE;Senior+Business+Analyst+%C2%B7+Strategy+%26+Governance;Certified+Frappe%2FERPNext+Developer;I+turn+messy+processes+into+systems+that+work." alt="Typing SVG" /></a>
 
-<b>Developer and Designer</b>
+<br/>
 
+![Location](https://img.shields.io/badge/Riyadh-Saudi_Arabia-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=e11d48)
+![Status](https://img.shields.io/badge/Open_to-Consulting_%26_Partnerships-e11d48?style=for-the-badge&logo=handshake&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Omarhabeeb27&color=e11d48&style=for-the-badge&label=PROFILE+VIEWS)
 
-<p>Hey, I am your friendly neighborhood Coder/Programmer/Designer/Editor/”?”.</p>
-<p>"Design is intelligence made visible." An idea that can be elaborated and can be envisioned is not just an idea, its a Creative Innovation. As the quote says a 'Design' is a visual representation of creativity and thoughtful planning. 'Design' is the manifestation of ideas, insights, and strategies that make an experience meaningful, memorable, and above all, effective.</p> 
-<p><b>Who Am I?</b></p>
-<p>I am a Young Graduate in Computer Science Engineering, Working on projects that would give me an idea of how technology works in today's time, A full fledged creative chad with an ideology of being enthusiastic and passionate about codes and design.</p>
+</div>
 
-* 🌍  I'm based in Saudi Arabia
-* ✉️  You can contact me at [omarhabeeb242@gmail.com](mailto:omarhabeeb242@gmail.com)
-* 🧠  I'm learning React.Js
-* ⚡  I am just too Awesome
+<br/>
 
-### Skills
+## `> initializing vision…`
 
+```js
+const omar = {
+  codename:   "Visionary",
+  base:       "Riyadh, Saudi Arabia 🇸🇦",
+  currently:  "Business Analyst & Strategy Specialist @ PIF",
+  education:  ["B.Tech Computer Science", "MBA, IT Management (in progress)"],
+  superpower: "Sitting between the boardroom and the codebase — fluent in both",
+  approach:   ["process-first", "people-centered", "tech-enabled"],
+  philosophy: "The goal is what the system enables, not the system itself.",
+  fuel:       ["coffee", "ERPNext", "a good wireframe"],
+  askMeAbout: ["ERP rollouts", "ZATCA e-invoicing", "CAFM", "UI/UX", "GenAI workflows"],
+};
+```
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+> *"Design is intelligence made visible."*
+> Breadth isn't a gap in my résumé — it's the core of my value. Strategy, systems, code and design, in one head.
 
+<br/>
 
-### Socials
+## 🦇 The Arsenal
 
-<p align="left"> <a href="https://discord.com/users/Omarhabeeb69#4189" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/omarhabeeb27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/omarhabeeb69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omarhabeeb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/omarhabeeb69" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<div align="center">
 
-----------------------
+| Domain | What I bring |
+|:--|:--|
+| 🧭 **Business & Systems Analysis** | BRDs · process maps · gap analyses · UAT |
+| 🏗️ **ERP Implementation** | ERPNext (Certified Frappe Dev) · Dynamics 365 · INFOR |
+| 📊 **Strategy & Governance** | Governance frameworks · IT roadmaps · PMO · ISO 41001 |
+| 🤖 **AI & Automation** | Prompt engineering · GenAI workflows · Kissflow · Newgen |
+| 🎨 **UI / UX Design** | Wireframes → working prototypes |
+| 📈 **Analytics** | Power BI · DAX · executive KPI dashboards |
 
-<div align="center"> 
-<b>My GitHub Stats</b>
-  
-<a href="http://www.github.com/omarhabeeb27"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarhabeeb27&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a></div>
+<br/>
 
-<a href="http://www.github.com/omarhabeeb27"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=omarhabeeb27&bg_color=ffffff&color=000000&line=0891b2&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<img src="https://skillicons.dev/icons?i=python,js,vue,html,css,mysql,linux,git,figma,ps,pr,xd,java,cpp&theme=dark" alt="Tech stack" />
+
+<br/><br/>
+
+![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNext-5E64FF?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![PMP](https://img.shields.io/badge/PMP®-Certified-e11d48?style=for-the-badge)
+![FMP](https://img.shields.io/badge/FMP®-Certified-e11d48?style=for-the-badge)
+
+</div>
+
+<br/>
+
+## 🎯 Active Missions
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [KamilX](https://github.com/Omarhabeeb27/kamilx)
+**CAFM — Computer-Aided Facility Management**
+
+Assets, preventive maintenance, work orders, SLAs, vendors and compliance — plus lease & tenancy — on Frappe with a Vue 3 frontend and bilingual EN/AR support.
+
+`Frappe` `Python` `Vue 3` `Helpdesk`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 [kamilPOS](https://github.com/Omarhabeeb27/kamilPOS)
+**Point of sale for ERPNext**
+
+A redesigned POS with a modern UI, Arabic-first experience, Pay Later, restock flows and ZATCA-compliant invoicing.
+
+`Frappe` `Vue` `ERPNext` `ZATCA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Prism](https://github.com/Omarhabeeb27/prism)
+**A full visual theming layer for Frappe Desk**
+
+Re-skin the Desk UI end to end without touching core.
+
+`JavaScript` `CSS` `Frappe`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [lang_toggle](https://github.com/Omarhabeeb27/lang_toggle)
+**One-click EN ⇄ AR navbar toggle**
+
+Per-user language switching for Frappe v16, built for bilingual teams.
+
+`Python` `Frappe v16`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📜 Case File
+
+<details open>
+<summary><b>💼 Experience</b></summary>
+<br/>
+
+```text
+2024 ─ now   PIF · Riyadh
+             Business Analyst & Strategy Specialist
+             └ IT & digital transformation · governance docs · Power BI exec dashboards · ISO 41001
+                custom UAT CAFM system
+
+2023 ─ 2024  Prestige Saudi Company
+             Software Engineer & Consultant
+             └ 20+ ERPNext projects · PMO for e-invoicing rollouts · ZATCA Phase 1 & 2
+                BPM / ECM / OEM with Kissflow & Newgen
+
+2022         Multisolutions · Trainee Software Engineer
+             └ ERP module customization · Taxilla e-invoicing support
+
+2022         TableSpace · Senior UI Designer
+             └ Prototypes & interfaces in Figma, Adobe XD, Sketch
+```
+
+</details>
+
+<details>
+<summary><b>🎓 Education & Certifications</b></summary>
+<br/>
+
+- **MBA, IT Management** — Amity University Online *(2024 – 2026)*
+- **B.Tech, Computer Science & Technology** — JNTUH College of Engineering, Hyderabad *(2018 – 2022)*
+  — co-founded the university's IEEE Student Branch · Best Graphic Designer award
+- **PMP®** · **FMP®** · **Certified Frappe Developer**
+- Microsoft Business Analyst · Google Cybersecurity · GenAI (Vanderbilt, IBM) · Management Consulting (Emory)
+
+</details>
+
+<br/>
+
+## 📡 Signal the Bat
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-omarhabeeb.netlify.app-e11d48?style=for-the-badge&logo=netlify&logoColor=white)](https://omarhabeeb.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omarhabeeb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omarhabeeb)
+[![Email](https://img.shields.io/badge/Email-omarhabeeb242@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e11d48)](mailto:omarhabeeb242@gmail.com)
+[![X](https://img.shields.io/badge/X-@OmarHabeeb69-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/OmarHabeeb69)
+[![Instagram](https://img.shields.io/badge/Instagram-omarhabeeb69-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/omarhabeeb69)
+
+</div>
+
+<br/>
+
+## 📊 Intel
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Omarhabeeb27&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e11d48&icon_color=e11d48&text_color=e5e5e5&ring_color=e11d48&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarhabeeb27&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e11d48&text_color=e5e5e5&langs_count=6" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Omarhabeeb27&hide_border=true&background=0a0a0a&ring=e11d48&fire=e11d48&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=e11d48&sideLabels=e5e5e5&dates=a3a3a3" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omarhabeeb27&bg_color=0a0a0a&color=e11d48&line=e11d48&point=ffffff&area=true&area_color=e11d48&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>🌑 obsidian · 🩸 crimson · ☕ caffeinated</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:e11d48,100:0a0a0a&section=footer&reversal=true" alt="" />
+
+</div>
